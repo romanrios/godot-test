@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1738239555|2505598271';
+const CACHE_VERSION = '1738240465|128321441';
 /** @type {string} */
 const CACHE_PREFIX = 'Starter Kit 3D P-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
